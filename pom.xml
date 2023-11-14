@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.3.1.RELEASE</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.mindtree</groupId>
 	<artifactId>Orderdemo</artifactId>
@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-feign</artifactId>
-			<version>1.0.0.RELEASE</version>
+			<version>1.0.1.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>io.springfox</groupId>
